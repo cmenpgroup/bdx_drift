@@ -1,0 +1,5 @@
+neutron_veto_number_of_bars      |  12        |  counts | Number of Bars for the BDX-DRIFT neutron veto | Michael Wood | mikewood@jlab.org | link to pdf drawing | variable name on the drawing | Michael Wood | 12/15/20
+bar_width           |  2.5       |  cm | Paddle width                     | Michael Wood | mikewood@jlab.org | link to pdf drawing | variable name on the drawing | Michael Wood | 12/15/20
+bar_length          |  175.0     |  cm | Paddle length                        | Michael Wood | mikewood@jlab.org | link to pdf drawing | variable name on the drawing | Michael Wood | 12/15/20
+bar_height          |  175.0     |  cm | Paddle height                        | Michael Wood | mikewood@jlab.org | link to pdf drawing | variable name on the drawing | Michael Wood | 12/15/20
+gd_thick            |  0.025     |  cm | Gd2O3 foil thickness                 | Michael Wood | mikewood@jlab.org | link to pdf drawing | variable name on the drawing | Michael Wood | 12/15/20

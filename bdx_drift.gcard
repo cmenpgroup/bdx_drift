@@ -1,0 +1,14 @@
+<gcard>
+	<detector name="bdxdrift" factory="TEXT" variation="original"/>
+	<option name="geometry" value="600x600"/>
+
+	<option name="INTEGRATEDRAW" value="bdxdrift"/>
+
+	<option name="BEAM_P" value="neutron, 10.0*MeV, 90*deg, 10*deg"/>
+	<option name="SPREAD_P"  value="0.0*MeV, 0*deg, 180*deg"/>
+
+	<option name="OUTPUT" value="txt, out.txt"/>
+	<option name="SAVE_ALL_MOTHERS" value="1"/>
+
+	<option name="PHYSICS" value="STD + FTFP_BERT"/>
+</gcard>

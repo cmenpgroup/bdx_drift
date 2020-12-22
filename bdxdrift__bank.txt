@@ -1,0 +1,584 @@
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |               stack  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |                face  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |                face  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+        neutron_veto  |              bankid  |                              neutron_veto bank ID  |  600   |                  Di  
+        neutron_veto  |                face  |                                      stack number  |    1   |                  Di  
+        neutron_veto  |              paddle  |                                     paddle number  |    2   |                  Di  
+        neutron_veto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+        neutron_veto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+        neutron_veto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+        neutron_veto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+        neutron_veto  |                hitn  |                                        hit number  |   99   |                  Di  
+               nveto  |              bankid  |                                     nveto bank ID  |  600   |                  Di  
+               nveto  |                face  |                                      stack number  |    1   |                  Di  
+               nveto  |              paddle  |                                     paddle number  |    2   |                  Di  
+               nveto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+               nveto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+               nveto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+               nveto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+               nveto  |                hitn  |                                        hit number  |   99   |                  Di  
+               nveto  |              bankid  |                                     nveto bank ID  |  600   |                  Di  
+               nveto  |                face  |                                      stack number  |    1   |                  Di  
+               nveto  |              paddle  |                                     paddle number  |    2   |                  Di  
+               nveto  |                adc1  |                                             ADC 1  |    3   |                  Di  
+               nveto  |                adc2  |                                             ADC 2  |    4   |                  Di  
+               nveto  |                tdc1  |                                             TDC 1  |    5   |                  Di  
+               nveto  |                tdc2  |                                             TDC 2  |    6   |                  Di  
+               nveto  |                hitn  |                                        hit number  |   99   |                  Di  
