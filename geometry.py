@@ -62,9 +62,9 @@ def build_drift(configuration):
 	detector.mfield = "no"
 	detector.visible = 1
 	detector.style = 0
-	detector.sensitivity = "flux"
-	detector.hit_type = "flux"
-	detector.identifiers = "drift"
+	detector.sensitivity = "no"
+	detector.hit_type = "no"
+	detector.identifiers = "no"
 
 	print_det(configuration, detector)
 
@@ -89,6 +89,7 @@ def build_neutron_veto_back_gd(configuration):
 		detector.type = "Box"
 		detector.dimensions = "%5.1f*cm %5.1f*cm %5.1f*cm" % (dx_Gd, dy, dz)
 		detector.material = "gd_foil"
+#		detector.material = "G4_AIR"
 		detector.mfield = "no"
 		detector.visible = 1
 		detector.style = 0
@@ -121,8 +122,8 @@ def build_neutron_veto_back(configuration):
 		detector.mfield = "no"
 		detector.visible = 1
 		detector.style = 1
-		detector.sensitivity = "nveto"
-		detector.hit_type = "nveto"
+		detector.sensitivity = "flux"
+		detector.hit_type = "flux"
 		detector.identifiers = "face manual 2 paddle manual %d" % n
 
 		print_det(configuration, detector)
@@ -148,6 +149,7 @@ def build_neutron_veto_front_gd(configuration):
 		detector.type = "Box"
 		detector.dimensions = "%5.1f*cm %5.1f*cm %5.1f*cm" % (dx_Gd, dy, dz)
 		detector.material = "gd_foil"
+#		detector.material = "G4_AIR"
 		detector.mfield = "no"
 		detector.visible = 1
 		detector.style = 0
@@ -180,8 +182,8 @@ def build_neutron_veto_front(configuration):
 		detector.mfield = "no"
 		detector.visible = 1
 		detector.style = 1
-		detector.sensitivity = "nveto"
-		detector.hit_type = "nveto"
+		detector.sensitivity = "flux"
+		detector.hit_type = "flux"
 		detector.identifiers = "face manual 1 paddle manual %d" % n
 
 		print_det(configuration, detector)
@@ -208,8 +210,8 @@ def build_neutron_veto_top(configuration):
 		detector.mfield = "no"
 		detector.visible = 1
 		detector.style = 0
-		detector.sensitivity = "nveto"
-		detector.hit_type = "nveto"
+		detector.sensitivity = "flux"
+		detector.hit_type = "flux"
 		detector.identifiers = "face manual 3 paddle manual %d" % n
 
 		print_det(configuration, detector)
@@ -236,8 +238,8 @@ def build_neutron_veto_bottom(configuration):
 		detector.mfield = "no"
 		detector.visible = 1
 		detector.style = 0
-		detector.sensitivity = "nveto"
-		detector.hit_type = "nveto"
+		detector.sensitivity = "flux"
+		detector.hit_type = "flux"
 		detector.identifiers = "face manual 4 paddle manual %d" % n
 
 		print_det(configuration, detector)
